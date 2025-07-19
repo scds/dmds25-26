@@ -2,7 +2,7 @@
 layout: default
 title: Kitchen Sink
 description: SCDS Do More with Digital Scholarship workshop series
-nav_order: 99
+nav_order: 99999997
 ---
 
 # Kitchen Sink

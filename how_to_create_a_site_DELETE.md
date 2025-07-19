@@ -2,7 +2,7 @@
 layout: default
 title: Create a Site
 description: SCDS Do More with Digital Scholarship workshop series
-nav_order: 101
+nav_order: 99999998
 ---
 
 # How to Create a Workshop Site!
