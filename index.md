@@ -3,10 +3,14 @@ layout: home
 title: Home
 nav_order: 1
 has_toc: false
-
-# Set this to "false" if you removed 'previousOffering.md'
-has_children: true 
 ---
+
+{%- assign workshops = site.pages 
+    | where_exp: "item", "item.grand_parent == null"
+    | where_exp: "item", "item.parent == null"
+    | sort: "title" 
+-%}
+
 <!-- 
 This will be the home page of your module. It should give a small introduction to the student about the workshop topic.
 Add, edit, or remove any content below for the workshop in question. -->
@@ -15,31 +19,34 @@ Add, edit, or remove any content below for the workshop in question. -->
 <img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
-# Getting started with ___.
+# Welcome to the 2025-26 Do More with Digital Scholarship Webinars
 
-This is a short description about the topic of the workshop. Replace this text with your own.
+What is digital scholarship, how can I do more with it, and how can it contribute to my research and teaching? Join us for our free workshop series that introduces McMaster students, faculty, and staff to the multifaceted domain of digital scholarship.
 
-In this tutorial, you will learn about ______.
+Join us to:
 
-## Prerequisites
+- Develop skills for professionalization.
+- Learn to use software to create digital exhibits, perform data analysis and create dashboards, and organize your research images.
+- Engage with faculty, staff, and students on a wide range of topics.
+- Learn more about digital approaches to research and knowledge mobilization.
+- Explore the intersections between digital scholarship and critical humanities; cybersecurity and data justice.
+
+## 2024-25 DMDS Workshops
 
 <!-- If creating or installing is covered in the module (preparation), mention that in brackets. -->
-- A [GitHub.com](https://www.github.com) account.
-- Installation of [Python](https://www.python.org/downloads/). (This will be covered in the [Preparation](preparation) page)
-- Some familiary with **softwareName/topic here**
 
-<!-- What will the student learn to do, learn to use, etc. -->
-## Learning Objectives
-By the end of this workshop, you will be able to:
-- Learning objective 1
-- Learning objective 2
-- Learning objective 3
-- Learning objective 4
-- You can add more here.
-
-<!-- Estimate the time the workshop will take to complete. Feel free to remove this. -->
-## Duration (optional)
-This module will take around 1 to 2 hours, however feel free to work at your own pace!
+<div markdown="1" style="border: 1px solid #7a003c; border-radius: 6px; margin-bottom: 1em; padding: 0.5em 1em 0; margin-top: 1em;" class="toc">
+<summary style="cursor:default; display: block; border-bottom: 1px solid #302d36; margin-bottom: 0.5em">
+  Workshops
+</summary>
+<ul>
+{% for workshop in workshops %}
+{% if workshop.title != null and workshop.title != "Home" %}
+<li><a href="{{workshop.url | absolute_url}}">{{workshop.title}}</a></li>
+{% endif %}
+{% endfor %}
+</ul>
+</div>
 
 ## Land Acknowledgement
 
