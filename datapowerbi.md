@@ -4,7 +4,7 @@ title: Creating Interactive Data Visualizations with Power BI
 nav_order: 20251113
 ---
 
-<img src="assets/img/datapowerbi.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/DataPowerBi.png" alt="Workshop Title Slide" width="100%">
 
 # Creating Interactive Data Visualizations with Power BI
 
