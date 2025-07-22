@@ -4,7 +4,7 @@ title: Create a Digital Exhibition with Omeka S
 nav_order: 20260206
 ---
 
-<img src="assets/img/omekabootcamp.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/OmekaBootcamp.png" alt="Workshop Title Slide" width="100%">
 
 # Create a Digital Exhibition with Omeka S
 
