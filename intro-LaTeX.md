@@ -8,6 +8,7 @@ nav_order: 20251023
 
 # Creating High-Quality Documents with LaTeX
 
+
 ## Workshop Preparation 
 
 ## Facilitator Bio
