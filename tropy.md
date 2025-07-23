@@ -16,10 +16,10 @@ In this hands-on workshop, participants will learn to:
 - Select appropriate metadata and implement documentation and tagging systems.
 - Integrate Tropy with Zotero and Omeka to cite archival sources and enhance the impact of your research and digital exhibitions.
 
-No prior knowledge of the software will be required but please come with a version of the software downloaded for the demo (https://tropy.org/)! We'll be doing some hands-on experimentation with the software to get you familiar with these tools.  
+No prior knowledge of the software will be required but please come with a version of the software downloaded for the demo [https://tropy.org/](https://tropy.org/)! We'll be doing some hands-on experimentation with the software to get you familiar with these tools.  
 
 ## Workshop Preparation 
-Download Tropy (https://tropy.org/) and Zotero (https://www.zotero.org/download/)
+Download Tropy [https://tropy.org/](https://tropy.org/) and Zotero [https://www.zotero.org/download/](https://www.zotero.org/download/)
 
 ## Facilitator Bio
 
@@ -28,6 +28,8 @@ Danica Evering holds broad experience with research support, education, project 
 Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
 
 ## Workshop Slides
+
+Coming soon.
 
 <!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
 

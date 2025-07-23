@@ -21,11 +21,15 @@ This session is perfect for anyone curious about AI who wants to experiment with
 
 ## Workshop Preparation 
 
+None
+
 ## Facilitator Bio
 
 John Fink is the Digital Scholarship Librarian in the Sherman Centre.
 
 ## Workshop Slides
+
+Coming soon.
 
 <!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
 

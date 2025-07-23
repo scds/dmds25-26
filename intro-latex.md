@@ -21,13 +21,15 @@ This session is ideal for students, researchers, and writers in any field who wa
 
 ## Workshop Preparation 
 
-Register for an account on https://overleaf.com
+Register for an account on [https://overleaf.com](https://overleaf.com)
 
 ## Facilitator Bio
 
 John Fink is the Digital Scholarship Librarian in the Sherman Centre.
 
 ## Workshop Slides
+
+Coming soon.
 
 <!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
 

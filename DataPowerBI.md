@@ -20,13 +20,15 @@ No previous experience with Power BI is required! This session is great for anyo
 
 ## Workshop Preparation 
 
-Download Power BI Desktop: https://office365.mcmaster.ca/office-365-3/applications/power-bi/getting-started-with-power-bi/
+Download Power BI Desktop: [https://office365.mcmaster.ca/office-365-3/applications/power-bi/getting-started-with-power-bi/](https://office365.mcmaster.ca/office-365-3/applications/power-bi/getting-started-with-power-bi/)
 
 ## Facilitator Bio
 
 Subhanya (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
 
 ## Workshop Slides
+
+Coming soon.
 
 <!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
 
