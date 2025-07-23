@@ -1,7 +1,7 @@
 title: 2025-26 DMDS Webinars # *** Enter workshop title here 
 github_repo_url: "https://scds.github.io/dmds25-26/" # *** Enter workshop URL (in github pages) here
 gh_edit_repository: "https://github.com/scds/dmds25-26" # *** Enter the github URL for your repo
-ga_tracking: "" # *** Set it to "G-HTFKKVJK6K" when website is done.  
+ga_tracking: "G-HTFKKVJK6K" # *** Set it to "G-HTFKKVJK6K" when website is done.  
 
 # This line appears in the footer. Use it to credit the people who created the workshop content, and those who set up the online pages. 
 # If you know some HTML, you can use HTML tags.
