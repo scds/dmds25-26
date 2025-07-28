@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Making and Querying Databases in SQL with DuckDB
-nav_order: 20251119
+nav_order: 20251126
 ---
 
 <img src="assets/img/sql-duckdb.png" alt="Workshop Title Slide" width="100%">
