@@ -20,6 +20,7 @@ By the end of this session, participants will be able to:
 This session is ideal for beginners in data analysis, researchers, and students who want a gentle introduction to databases using a simple and powerful tool. No prior experience required!
 
 ## Workshop Preparation 
+None
 
 ## Facilitator Bio
 
