@@ -12,13 +12,13 @@ From Reddit threads to TikTok trends, social media is deeply embedded in our dai
 
 This hands-on workshop covers both practical techniques and ethical considerations for working with social media data. You’ll learn from experts across digital scholarship, research data management, and data analysis:
 
-How to Collect to Social Media Data: Digital Scholarship Librarian John Fink will demo manual collection and scraping tools like the Digital Methods Initiative's Zeeschuimer and 4CAT. 
+- **How to Collect to Social Media Data:** Digital Scholarship Librarian John Fink will demo manual collection and scraping tools like the Digital Methods Initiative's Zeeschuimer and 4CAT. 
 
-How to Analyze Social Media Data: Data Analysis and Visualization Librarian Subhanya Sivajothy will intro how to comb through social media data and show patterns. 
+- **How to Analyze Social Media Data:** Data Analysis and Visualization Librarian Subhanya Sivajothy will intro how to comb through social media data and show patterns. 
 
-How to Manage Social Media Data: Research Data Management Specialist Danica Evering will share tools and best practices for wrangling and organizing social media data. 
+- **How to Manage Social Media Data:** Research Data Management Specialist Danica Evering will share tools and best practices for wrangling and organizing social media data. 
 
-How to Navigate Social Media Data Ethics: Digital Scholarship Coordinator Alexis-Carlota Cochrane will explore ethical considerations for researching social media, including strategies for protecting privacy and minimizing harm throughout the research and publication process.
+- **How to Navigate Social Media Data Ethics:** Digital Scholarship Coordinator Alexis-Carlota Cochrane will explore ethical considerations for researching social media, including strategies for protecting privacy and minimizing harm throughout the research and publication process.
 
 By the end of this workshop, participants will be able to:
 * Collect social media data using both manual and automated scraping tools like Zeeschuimer and 4CAT.
@@ -35,6 +35,13 @@ None
 
 ## Facilitator Bio
 
+Alexis-Carlota Cochrane (she/they) is the Digital Scholarship Coordinator at the Sherman Centre for Digital Scholarship. In her role, she connects students, faculty, staff, and community members to resources, tools, and training that advance their digital research projects. Alexis is also PhD Candidate in the Department of Communication Studies and Media Arts at McMaster University. Her research interests include critical data studies, platform studies, data feminism, online harms, data justice, and digital humanities.
+
+Danica Evering holds broad experience with research support, education, project management, advocacy, and knowledge translation; with fluency in social practice art, healthcare, community research, data, and systems development. Danica supports students, postdocs, faculty, and staff with RDM through the data lifecycle—Data Management Plans, storage and backup, data security, data sharing. With an MA in Media Studies from Concordia, they are interested in fostering RDM within curious scholars and disciplines.
+
+John Fink is the Digital Scholarship Librarian in the Sherman Centre.
+
+Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
 ## Workshop Slides
 
 Coming soon.
