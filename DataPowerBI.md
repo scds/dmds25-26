@@ -21,6 +21,9 @@ No previous experience with Power BI is required! This session is great for anyo
 ## Workshop Preparation 
 
 Download Power BI Desktop: [https://office365.mcmaster.ca/office-365-3/applications/power-bi/getting-started-with-power-bi/](https://office365.mcmaster.ca/office-365-3/applications/power-bi/getting-started-with-power-bi/)
+Please note that this software will only work on Windows OS.
+
+The data that we will be using during the workshop can be downloaded [here](data/Power BI Emissions Data.xlsx).
 
 ## Facilitator Bio
 
