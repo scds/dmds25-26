@@ -33,3 +33,8 @@ Subhanya (she/her) brings a background of research in data justice, science and 
 <embed src="assets/docs/PowerBI-Presentation.pdf" style="border:none;" width="100%" height="466px">
 
 [Download as PDF.](assets/docs/PowerBI-Presentation.pdf)
+
+## Workshop Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/41cbeb73-2cdc-44b3-882b-a28491b430f6/public"></iframe>
+[View original here.](https://echo360.ca/media/41cbeb73-2cdc-44b3-882b-a28491b430f6/public)

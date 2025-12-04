@@ -32,3 +32,8 @@ John Fink is the Digital Scholarship Librarian in the Sherman Centre.
 <embed src="assets/docs/20251023-latex.pdf" style="border:none;" width="100%" height="466px">
 
 [Download as PDF.](assets/docs/20251023-latex.pdf)-->
+
+## Workshop Recording
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8b0653e4-d828-43e5-94f5-997c186dfc9a/public"></iframe>
+[View original here.](https://echo360.ca/media/8b0653e4-d828-43e5-94f5-997c186dfc9a/public)
