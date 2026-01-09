@@ -6,7 +6,7 @@ nav_order: 20250917
 
 <img src="assets/img/build-chatbot.png" alt="Workshop Title Slide" width="100%">
 
-# Build Your Own Chatbot: Local Applications n Generative AI on Your Laptop
+# Build Your Own Chatbot: Local Applications n Generative AI on Your Laptop (Fall 2025)
 
 Most people know cloud-based generative AI tools like ChatGPT, but did you know that the powerful technology behind them—transformer-based Large Language Models (LLMs)—can also run directly on a modern laptop?
 
