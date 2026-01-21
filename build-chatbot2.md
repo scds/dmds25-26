@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 'Build Your Own Chatbot: Local Applications n Generative AI on Your Laptop (Fall 2025)'
+title: 'Build Your Own Chatbot: Local Applications n Generative AI on Your Laptop (Winter 2026)'
 nav_order: 20250917
 ---
 
-<img src="assets/img/build-chatbot.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/build-chatbot2.png" alt="Workshop Title Slide" width="100%">
 
-# Build Your Own Chatbot: Local Applications n Generative AI on Your Laptop (Fall 2025)
+# Build Your Own Chatbot: Local Applications n Generative AI on Your Laptop (Winter 2026)
 
 Most people know cloud-based generative AI tools like ChatGPT, but did you know that the powerful technology behind them—transformer-based Large Language Models (LLMs)—can also run directly on a modern laptop?
 
@@ -30,7 +30,3 @@ John Fink is the Digital Scholarship Librarian in the Sherman Centre.
 ## Workshop Slides
 
 Coming soon.
-
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
-
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
