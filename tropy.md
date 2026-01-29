@@ -6,7 +6,7 @@ nav_order: 20260127
 
 <img src="assets/img/tropy.png" alt="Workshop Title Slide" width="100%">
 
-# Streamline Your Research Materials with Tropys
+# Streamline Your Research Materials with Tropy
 
 
 You've been there--getting home from an incredible research trip to an archive, maps collection, or gallery only to face down thousands of photos all labelled "IMG50293.png." Join Research Data Management Specialist Danica Evering and Data Analysis and Visualization Librarian Subhanya Sivajothy for an overview of Tropy: a free and open-source solution to explore and manage research photos. In this webinar, you will learn how to use Tropy to zoom into details, tag and organize content with metadata, and begin uncovering patterns across your sources. We will also explore how Tropy connects with Zotero for reference management and Omeka for building digital exhibits, offering a full workflow from research to public presentation.
