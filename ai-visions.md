@@ -35,5 +35,7 @@ Coming soon.
 
 ## Workshop Recording
 
+<!--
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/b234c0fb-2f94-400e-bfad-5e6efdf55341/public"></iframe>
 [View original here.](https://echo360.ca/media/b234c0fb-2f94-400e-bfad-5e6efdf55341/public)
+-->
