@@ -33,9 +33,22 @@ Coming soon.
 
 [Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf) -->
 
-## Workshop Recording
 
+
+## 1. Introduction
 <!--
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/b234c0fb-2f94-400e-bfad-5e6efdf55341/public"></iframe>
 [View original here.](https://echo360.ca/media/b234c0fb-2f94-400e-bfad-5e6efdf55341/public)
 -->
+## 2. Spotting AI Images & Visual Media Literacy Basics 
+
+## 3. Intersectionality, Decoloniality, and Historical Thinking
+
+## 4. Histories of Humanitarian Imagery and Photographic Fakery
+
+## 5. Generative AI in Practice: Stereotypes, Safeguards, and Archives
+
+## 6. Conclusion & Additional Resources
+
+
+
