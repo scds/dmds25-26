@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 'Build Your Own Chatbot: Local Applications n Generative AI on Your Laptop (Winter 2026)'
+title: 'Build Your Own Chatbot: Local Applications in Generative AI on Your Laptop (Winter 2026)'
 nav_order: 20250917
 ---
 
