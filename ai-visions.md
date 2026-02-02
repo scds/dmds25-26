@@ -33,7 +33,15 @@ Coming soon.
 
 [Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf) -->
 
-
+<table style="background-color: #ffff99;">
+<tbody>
+<tr>
+<td>
+<p><b>NOTE:</b>The following content is under development. Workshop videos will be shared below with corresponding interactive components.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## 1. Introduction
 <!--
