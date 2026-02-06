@@ -2,11 +2,12 @@
 layout: default
 title: 'Visions of Generative AI: Historical and Ethical Dimensions of Visual Media Literacy in the Era of AI'
 nav_order: 20251008
+published: false
 ---
 
 <img src="assets/img/ai-visions.png" alt="Workshop Title Slide" width="100%">
 
-# Visions of Generative AI: Historical and Ethical Dimensions of Visual Media Literacy in the Era of AI
+# DEMO Visions of Generative AI: Historical and Ethical Dimensions of Visual Media Literacy in the Era of AI
 
 Whether you regularly engage with visual generative AI or are just dipping your toe into these waters, this workshop focuses on recognizing sources of image biases and its impacts and implications as artificial images become increasingly sophisticated and ubiquitous. Applying a combined historical and ethics lens, workshop participants will have the opportunity to generate and analyze artificial images as a means of unpacking continuity and changes in visual practices and norms. The workshop supports the development of critical reflection skills and tools for creating and ‘reading’ images that avoid potential pitfalls of (re)producing harmful clichés and to support identification of mis/disinformation. The workshop has relevance for academic integrity along with navigating our daily visual landscape, which in turn has implications for democracy, civic engagement, and human relationships. At a time when visual evidence/truth, dis/misinformation and academic integrity are at stake, there is no time like the present to gain a solid foundation on visual literacy.
 
@@ -31,37 +32,11 @@ Coming soon.
 
 <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
 
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf) 
+[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf) -->
 
-<table style="background-color: #ffff99;">
-<tbody>
-<tr>
-<td>
-<p><b>NOTE:</b>The following content is under development. Workshop videos will be shared below with corresponding interactive components.</p>
-</td>
-</tr>
-</tbody>
-</table>
+## Workshop Recording
 
-## 1. Introduction
 <!--
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/b234c0fb-2f94-400e-bfad-5e6efdf55341/public"></iframe>
 [View original here.](https://echo360.ca/media/b234c0fb-2f94-400e-bfad-5e6efdf55341/public)
-<<<<<<< HEAD
-
 -->
-=======
--->
-## 2. Spotting AI Images & Visual Media Literacy Basics 
-
-## 3. Intersectionality, Decoloniality, and Historical Thinking
-
-## 4. Histories of Humanitarian Imagery and Photographic Fakery
-
-## 5. Generative AI in Practice: Stereotypes, Safeguards, and Archives
-
-## 6. Conclusion & Additional Resources
-
-
-
->>>>>>> 91caabae837be6400815c800f16dd8a6356d791e
