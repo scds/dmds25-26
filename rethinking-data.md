@@ -34,8 +34,6 @@ Subhanya (she/her) brings a background of research in data justice, science and 
 
 ## Workshop Slides
 
-Coming soon.
+<embed src="assets/docs/2026-02-09_QueerDataCare.pdf" style="border:none;" width="100%" height="466px">
 
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
-
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
+[Download as PDF.](assets/docs/2026-02-09_QueerDataCare.pdf)
