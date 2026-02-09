@@ -28,8 +28,6 @@ Subhanya (she/her) brings a background of research in data justice, science and 
 
 ## Workshop Slides
 
-Coming soon.
+<embed src="assets/docs/CreatingExhibitionswithOmekaS2026.pdf" style="border:none;" width="100%" height="466px">
 
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
-
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
+[Download as PDF.](assets/docs/CreatingExhibitionswithOmekaS2026.pdf)
