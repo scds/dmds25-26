@@ -28,6 +28,8 @@ None
 
 ## Facilitator Bio
 
+Alexis-Carlota Cochrane (she/they) is the Digital Scholarship Coordinator at the Sherman Centre for Digital Scholarship. In her role, she connects students, faculty, staff, and community members to resources, tools, and training that advance their digital research projects. Alexis is also PhD Candidate in the Department of Communication Studies and Media Arts at McMaster University. Her research interests include critical data studies, platform studies, data feminism, online harms, data justice, and digital humanities.
+
 Danica Evering holds broad experience with research support, education, project management, advocacy, and knowledge translation; with fluency in social practice art, healthcare, community research, data, and systems development. Danica supports students, postdocs, faculty, and staff with RDM through the data lifecycle—Data Management Plans, storage and backup, data security, data sharing. With an MA in Media Studies from Concordia, they are interested in fostering RDM within curious scholars and disciplines.
 
 Subhanya (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
