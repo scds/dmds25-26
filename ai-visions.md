@@ -69,6 +69,23 @@ Coming soon.
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/90648/embed" width="964" height="286" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="The Job Characteristics Model of Motivation"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 -->
 
+<!--
+# Image Quiz Tester
+<div class="flip-box">
+    <div class="flipcard" onclick="this.classList.toggle('flipped')">
+        <img src="assets/img/img1.png" alt="">
+        <p>Right answer!</p>
+    </div>
+    <div class="flipcard" onclick="this.classList.toggle('flipped')">
+        <img src="assets/img/img2.png" alt="">
+        <p>Wrong answer!</p>
+    </div>
+    <div class="flipcard" onclick="this.classList.toggle('flipped')">
+        <img src="assets/img/img1.png" alt="">
+        <p>Right answer!</p>
+    </div>
+</div>
+-->
 ## 3. Intersectionality, Decoloniality, and Historical Thinking
 
 ## 4. Histories of Humanitarian Imagery and Photographic Fakery
