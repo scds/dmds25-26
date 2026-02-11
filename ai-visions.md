@@ -58,10 +58,10 @@ Coming soon.
 -->
 
 ## 1. Introduction
-<!--
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/b234c0fb-2f94-400e-bfad-5e6efdf55341/public"></iframe>
-[View original here.](https://echo360.ca/media/b234c0fb-2f94-400e-bfad-5e6efdf55341/public)
--->
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/addd54ee-d454-4c6c-9220-e91f4f3e70a5/public"></iframe>
+[View original here.](https://echo360.ca/media/addd54ee-d454-4c6c-9220-e91f4f3e70a5/public)
+
 ## 2. Spotting AI Images & Visual Media Literacy Basics 
 
 <!--Embedded multiple choice quiz example 
