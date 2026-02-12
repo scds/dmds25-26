@@ -62,7 +62,10 @@ Coming soon.
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/addd54ee-d454-4c6c-9220-e91f4f3e70a5/public"></iframe>
 [View original here.](https://echo360.ca/media/addd54ee-d454-4c6c-9220-e91f4f3e70a5/public)
 
-## 2. Spotting AI Images & Visual Media Literacy Basics 
+## 2. Visual Media Literacy and Identifying AI Images
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a9b23578-af68-43a4-8fff-ce758c09d741/public"></iframe>
+[View original here.](https://echo360.ca/media/a9b23578-af68-43a4-8fff-ce758c09d741/public)
 
 <!--Embedded multiple choice quiz example 
 
@@ -88,11 +91,22 @@ Coming soon.
 -->
 ## 3. Intersectionality, Decoloniality, and Historical Thinking
 
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/public/media/618589da-e4bb-401a-8619-8f8a25de4c90"></iframe>
+[View original here.](https://echo360.ca/public/media/618589da-e4bb-401a-8619-8f8a25de4c90)
+
 ## 4. Histories of Humanitarian Imagery and Photographic Fakery
 
-## 5. Generative AI in Practice: Stereotypes, Safeguards, and Archives
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/2e543432-f534-4471-81e1-6fd4c105c1b6/public"></iframe>
+[View original here.](https://echo360.ca/media/2e543432-f534-4471-81e1-6fd4c105c1b6/public)
 
-## 6. Conclusion & Additional Resources
+## 5. Case Study Examples
 
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/3d9b1534-86ba-4863-a35f-dd2c58755c5f/public"></iframe>
+[View original here.](https://echo360.ca/media/3d9b1534-86ba-4863-a35f-dd2c58755c5f/public)
+
+## 6. Considerations & Implications
+
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/df4a3f79-d3d6-432f-9f3f-dc4554be16fc/public"></iframe>
+[View original here.](https://echo360.ca/media/df4a3f79-d3d6-432f-9f3f-dc4554be16fc/public)
 
 
