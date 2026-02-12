@@ -18,15 +18,6 @@ By the end of the workshop, participants will be able to:
 
 This workshop is great for students, educators, researchers, and professionals interested in developing critical visual literacy skills to responsibly engage with AI-generated images in academic, creative, or everyday contexts!
 
-## Workshop Preparation 
-
-None
-
-
-## Facilitator Bio
-
-Dr. Sonya de Laat is the Academic Program Advisor and Curriculum Coordinator in the School of Global Health and Social Medicine, and a Research Associate with the Department of Health Research Methods, Evidence, and Impact at McMaster University. With degrees in Anthropology and Media Studies, Dr. de Laat’s work has focused on historical and ethical dimensions of humanitarian visual culture and action. Currently, her focus is on challenging the promises/hopes of photorealistic generative AI and sharing diverse visual histories as a corrective intervention. Her postdoctoral work focused on moral and practical dimensions of palliative care in refugee camps drawing attention to small interventions having big impacts, and the importance of co-design and partnered research. Dr. de Laat is an active member of the Humanitarian Health Ethics research group, and the Canadian Network on Humanitarian History. Representative publications include, “Assembling a global health image: Ethical and pragmatic tensions through the lenses of photographers” (PLOS Glob Public Health 2024), “A case analysis of partnered research on palliative care for refugees in Jordan and Rwanda” (Confl Health 2021), and “The Camera and the Red Cross: ‘Lamentable pictures’ and Conflict Photography Bring into Focus an International Movement, 1855-1865” (IRRC 2021).
-
 <!--Table of contents start here-->
 <details markdown="block" class="toc">
   <summary>
@@ -38,6 +29,16 @@ Dr. Sonya de Laat is the Academic Program Advisor and Curriculum Coordinator in 
 </details>
 
 <!--Table of contents ends here-->
+
+## Workshop Preparation 
+
+None
+
+
+## Facilitator Bio
+
+Dr. Sonya de Laat is the Academic Program Advisor and Curriculum Coordinator in the School of Global Health and Social Medicine, and a Research Associate with the Department of Health Research Methods, Evidence, and Impact at McMaster University. With degrees in Anthropology and Media Studies, Dr. de Laat’s work has focused on historical and ethical dimensions of humanitarian visual culture and action. Currently, her focus is on challenging the promises/hopes of photorealistic generative AI and sharing diverse visual histories as a corrective intervention. Her postdoctoral work focused on moral and practical dimensions of palliative care in refugee camps drawing attention to small interventions having big impacts, and the importance of co-design and partnered research. Dr. de Laat is an active member of the Humanitarian Health Ethics research group, and the Canadian Network on Humanitarian History. Representative publications include, “Assembling a global health image: Ethical and pragmatic tensions through the lenses of photographers” (PLOS Glob Public Health 2024), “A case analysis of partnered research on palliative care for refugees in Jordan and Rwanda” (Confl Health 2021), and “The Camera and the Red Cross: ‘Lamentable pictures’ and Conflict Photography Bring into Focus an International Movement, 1855-1865” (IRRC 2021).
+
 <!--## Workshop Slides
 
 Coming soon.
