@@ -6,16 +6,15 @@ nav_order: 20251008
 
 <img src="assets/img/ai-visions.png" alt="Workshop Title Slide" width="100%">
 
-<table style="background-color: #FCFC6A;">
-<tbody>
-<tr>
-<td>
-<p><b>This module is currently under construction.</b> Come back soon for the finished product!</p>
-</td>
-</tr>
-</tbody>
+<table style="background-color: #FCFC6A; width: 100%; border-collapse: collapse;">
+  <tbody>
+    <tr>
+      <td style="text-align: center; font-size: 1.25rem; padding: 20px;">
+        <p><b>This module is currently under construction.</b> Come back soon for the finished product!</p>
+      </td>
+    </tr>
+  </tbody>
 </table>
-
 
 {: .no_toc}
 # Visions of Generative AI: Historical and Ethical Dimensions of Visual Media Literacy in the Era of AI
