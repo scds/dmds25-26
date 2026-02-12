@@ -6,7 +6,7 @@ nav_order: 20251008
 
 <img src="assets/img/ai-visions.png" alt="Workshop Title Slide" width="100%">
 
-table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border-collapse: collapse;">
   <tbody>
     <tr>
       <td style="background-color: #FCFC6A; text-align: center; font-size: 1.25rem; padding: 20px;">
