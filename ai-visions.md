@@ -6,7 +6,7 @@ nav_order: 20251008
 
 <img src="assets/img/ai-visions.png" alt="Workshop Title Slide" width="100%">
 
-<table style="background-color: #ffff99;">
+<table style="background-color: #FCFC6A;">
 <tbody>
 <tr>
 <td>
