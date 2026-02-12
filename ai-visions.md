@@ -6,11 +6,11 @@ nav_order: 20251008
 
 <img src="assets/img/ai-visions.png" alt="Workshop Title Slide" width="100%">
 
-<table style="background-color: #FCFC6A; width: 100%; border-collapse: collapse;">
+table style="width: 100%; border-collapse: collapse;">
   <tbody>
     <tr>
-      <td style="text-align: center; font-size: 1.25rem; padding: 20px;">
-        <p><b>This module is currently under construction.</b> Come back soon for the finished product!</p>
+      <td style="background-color: #FCFC6A; text-align: center; font-size: 1.25rem; padding: 20px;">
+        <p style="margin: 0;"><b>This module is currently under construction.</b> Come back soon for the finished product!</p>
       </td>
     </tr>
   </tbody>
