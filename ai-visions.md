@@ -139,6 +139,7 @@ Coming soon.
 
 
 **Congratulations!** 
+
 You’ve just finished this workshop. You should now be able to: 
 - Question the authenticity and ethics of AI-generated images.
 - Identify historical and cultural influences in visual AI outputs. 
