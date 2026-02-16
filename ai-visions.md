@@ -81,6 +81,9 @@ Coming soon.
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a9b23578-af68-43a4-8fff-ce758c09d741/public"></iframe>
 [View original here.](https://echo360.ca/media/a9b23578-af68-43a4-8fff-ce758c09d741/public)
 
+### Quick Quiz
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/91050/embed" width="514" height="415" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="Visual Media Literacy and Identifying AI Images"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+
 <!--Embedded multiple choice quiz example 
 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/90648/embed" width="964" height="286" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="The Job Characteristics Model of Motivation"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
@@ -108,10 +111,16 @@ Coming soon.
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/public/media/618589da-e4bb-401a-8619-8f8a25de4c90"></iframe>
 [View original here.](https://echo360.ca/public/media/618589da-e4bb-401a-8619-8f8a25de4c90)
 
+### Quick Quiz
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/91052/embed" width="514" height="463" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="Intersectionality, Decoloniality, and Historical Thinking"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
+
 ## 4. Histories of Humanitarian Imagery and Photographic Fakery
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/2e543432-f534-4471-81e1-6fd4c105c1b6/public"></iframe>
 [View original here.](https://echo360.ca/media/2e543432-f534-4471-81e1-6fd4c105c1b6/public)
+
+### Quick Quiz
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/91053/embed" width="514" height="457" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="Histories of Humanitarian Imagery and Photographic Fakery"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## 5. Case Study Examples
 
@@ -123,4 +132,6 @@ Coming soon.
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/df4a3f79-d3d6-432f-9f3f-dc4554be16fc/public"></iframe>
 [View original here.](https://echo360.ca/media/df4a3f79-d3d6-432f-9f3f-dc4554be16fc/public)
 
+### Quick Quiz
+<iframe src="https://h5pstudio.ecampusontario.ca/h5p/91054/embed" width="514" height="415" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="Considerations &amp; Implications"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
