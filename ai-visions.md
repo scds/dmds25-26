@@ -135,10 +135,7 @@ Coming soon.
 ### Quick Quiz
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/91054/embed" width="514" height="415" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="Considerations &amp; Implications"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
-## Conclusion
-
-
-**Congratulations!** 
+## Congratulations! 
 
 You’ve just finished this workshop. You should now be able to: 
 - Question the authenticity and ethics of AI-generated images.
