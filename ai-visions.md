@@ -69,7 +69,7 @@ Coming soon.
 -->
 
 ## 1. Introduction
-### Can you spot the AI?
+<!--### Can you spot the AI?
 Click on the image that you think is AI generated:
 <div class="flip-box">
     <div class="flipcard" onclick="this.classList.toggle('flipped')">
@@ -88,7 +88,7 @@ Click on the image that you think is AI generated:
         <img src="assets/img/1D.png" alt="">
         <p>Incorrect</p>
 </div>
-
+-->
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/addd54ee-d454-4c6c-9220-e91f4f3e70a5/public"></iframe>
 [View original here.](https://echo360.ca/media/addd54ee-d454-4c6c-9220-e91f4f3e70a5/public)
 
