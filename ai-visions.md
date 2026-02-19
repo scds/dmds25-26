@@ -69,7 +69,7 @@ Coming soon.
 -->
 
 ## 1. Introduction
-### Activity: Can you spot the AI?
+### Can you spot the AI?
 Click on the image that you think is AI generated:
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/91108/embed" width="964" height="799" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="AI activity 1"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
