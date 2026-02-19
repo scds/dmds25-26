@@ -69,7 +69,6 @@ Coming soon.
 -->
 
 ## 1. Introduction
-
 ### Can you spot the AI?
 Click on the image that you think is AI generated:
 <div class="flip-box">
