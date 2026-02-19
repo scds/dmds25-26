@@ -74,17 +74,20 @@ Coming soon.
 Click on the image that you think is AI generated:
 <div class="flip-box">
     <div class="flipcard" onclick="this.classList.toggle('flipped')">
-        <img src="assets/img/img1.png" alt="">
-        <p>Right answer!</p>
+        <img src="assets/img/1A.png" alt="">
+        <p>Incorrect</p>
     </div>
     <div class="flipcard" onclick="this.classList.toggle('flipped')">
-        <img src="assets/img/img2.png" alt="">
-        <p>Wrong answer!</p>
+        <img src="assets/img/1B.png" alt="">
+        <p>Correct!</p>
     </div>
     <div class="flipcard" onclick="this.classList.toggle('flipped')">
-        <img src="assets/img/img1.png" alt="">
-        <p>Right answer!</p>
+        <img src="assets/img/1C.png" alt="">
+        <p>Incorrect</p>
     </div>
+    <div class="flipcard" onclick="this.classList.toggle('flipped')">
+        <img src="assets/img/1D.png" alt="">
+        <p>Incorrect</p>
 </div>
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/addd54ee-d454-4c6c-9220-e91f4f3e70a5/public"></iframe>
