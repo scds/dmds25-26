@@ -44,13 +44,11 @@ John Fink is the Digital Scholarship Librarian in the Sherman Centre.
 Subhanya Sivajothy (she/her) brings a background of research in data justice, science and technology studies, and environmental humanities. She is currently thinking through participatory data design which allow for visualizations that are empowering for the end user.
 ## Workshop Slides
 
-Coming soon.
+<embed src="assets/docs/2026-03-19_SocialMediaResearch.pdf" style="border:none;" width="100%" height="466px">
 
-<!-- <embed src="assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf" style="border:none;" width="100%" height="466px">
+[Download as PDF.](assets/docs/2026-03-19_SocialMediaResearch.pdf)
 
-[Download as PDF.](assets/docs/Creating-and-Sharing-Maps-with-ArcGIS-Online.pdf)-->
+## Workshop Recording
 
-<!--## Workshop Recording
-
-<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/f75ed6ab-9ac6-4eb6-ad83-207c33485049/public"></iframe>
-[View original here.](https://echo360.ca/media/f75ed6ab-9ac6-4eb6-ad83-207c33485049/public)-->
+<iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a2e0a25d-8744-4fb7-80b8-51ec2d076e6a/public"></iframe>
+[View original here.](https://echo360.ca/media/a2e0a25d-8744-4fb7-80b8-51ec2d076e6a/public)
