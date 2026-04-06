@@ -27,6 +27,8 @@ Please make sure you have a laptop that meets the following requirements:
 - If you're on a Mac, please install the XCode Command Line Tools (https://developer.apple.com/documentation/xcode/installing-the-command-line-tools/)
 - Devices like iPads and Chromebooks are not supported
 - Please download https://mcmasteru365-my.sharepoint.com/:u:/g/personal/jfink_mcmaster_ca/IQDlurTUrI9VQ598LFrzqVYBAdTXFjCfIvG8buSVPEm2Hgs?e=gKe6gc before the workshop, if possible.
+- On Windows, rename the downloaded file to "Qwen3.5-0.8B-Q8_0.exe"
+- On Mac, open a terminal window, cd to the directory where you've downloaded the file, and run "chmod 755 Qwen3.5-0.8B-Q8_0.llamafile"
 
 ## Facilitator Bio
 
