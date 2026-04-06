@@ -23,13 +23,10 @@ This session is perfect for anyone curious about AI who wants to experiment with
 
 Please make sure you have a laptop that meets the following requirements:
 
-1) 8GB of memory or greater (*might* work with 4GB but no guarantees)
-
-2) Running an up to date version of Linux, MacOS, or Windows
-
-   2a) If you're on a Mac, please install the XCode Command Line Tools (https://developer.apple.com/documentation/xcode/installing-the-command-line-tools/)
-
-4) Things like iPads and Chromebooks are not supported
+- 8GB of memory or greater (*might* work with 4GB but no guarantees)
+- Running an up to date version of Linux, MacOS, or Windows
+- If you're on a Mac, please install the XCode Command Line Tools (https://developer.apple.com/documentation/xcode/installing-the-command-line-tools/)
+- Things like iPads and Chromebooks are not supported
 
 ## Facilitator Bio
 
