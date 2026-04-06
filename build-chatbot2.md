@@ -20,13 +20,12 @@ By the end of this session, participants will be able to:
 This session is perfect for anyone curious about AI who wants to experiment with running models independently!
 
 ## Workshop Preparation and Technology Requirements
-
+### Required technology
 Please make sure you have a laptop that meets the following requirements:
-
 - 8GB of memory or greater (*might* work with 4GB but no guarantees)
 - Running an up to date version of Linux, MacOS, or Windows
 - If you're on a Mac, please install the XCode Command Line Tools (https://developer.apple.com/documentation/xcode/installing-the-command-line-tools/)
-- Things like iPads and Chromebooks are not supported
+- Devices like iPads and Chromebooks are not supported
 - Please download https://mcmasteru365-my.sharepoint.com/:u:/g/personal/jfink_mcmaster_ca/IQDlurTUrI9VQ598LFrzqVYBAdTXFjCfIvG8buSVPEm2Hgs?e=gKe6gc before the workshop, if possible.
 
 ## Facilitator Bio
