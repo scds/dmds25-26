@@ -27,6 +27,7 @@ Please make sure you have a laptop that meets the following requirements:
 - Running an up to date version of Linux, MacOS, or Windows
 - If you're on a Mac, please install the XCode Command Line Tools (https://developer.apple.com/documentation/xcode/installing-the-command-line-tools/)
 - Things like iPads and Chromebooks are not supported
+- Please download https://mcmasteru365-my.sharepoint.com/:u:/g/personal/jfink_mcmaster_ca/IQDlurTUrI9VQ598LFrzqVYBAdTXFjCfIvG8buSVPEm2Hgs?e=gKe6gc before the workshop, if possible.
 
 ## Facilitator Bio
 
