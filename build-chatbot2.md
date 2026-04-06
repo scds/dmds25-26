@@ -19,7 +19,7 @@ By the end of this session, participants will be able to:
 
 This session is perfect for anyone curious about AI who wants to experiment with running models independently!
 
-## Workshop Preparation 
+## Workshop Preparation and Technology Requirements
 
 None
 
