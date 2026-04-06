@@ -21,7 +21,10 @@ This session is perfect for anyone curious about AI who wants to experiment with
 
 ## Workshop Preparation and Technology Requirements
 
-None
+Please make sure you have a laptop that meets the following requirements:
+1) 8GB of memory or greater (*might* work with 4GB but no guarantees)
+2) Running an up to date version of Linux, MacOS, or Windows
+3) Things like iPads and Chromebooks are not supported
 
 ## Facilitator Bio
 
