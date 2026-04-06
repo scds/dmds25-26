@@ -20,15 +20,21 @@ By the end of this session, participants will be able to:
 This session is perfect for anyone curious about AI who wants to experiment with running models independently!
 
 ## Workshop Preparation and Technology Requirements
-### Required technology
+### Required technology and setup
 Please make sure you have a laptop that meets the following requirements:
 - 8GB of memory or greater (*might* work with 4GB but no guarantees)
 - Running an up to date version of Linux, MacOS, or Windows
-- If you're on a Mac, please install the XCode Command Line Tools (https://developer.apple.com/documentation/xcode/installing-the-command-line-tools/)
-- Devices like iPads and Chromebooks are not supported
-- Please download https://mcmasteru365-my.sharepoint.com/:u:/g/personal/jfink_mcmaster_ca/IQDlurTUrI9VQ598LFrzqVYBAdTXFjCfIvG8buSVPEm2Hgs?e=gKe6gc before the workshop, if possible.
+**Important notes**
+- Devices like iPads and Chromebooks are not supported. You are welcome to attend, but will need to follow along with another person. 
+- If you intend to use a Mac***, be sure to install the [XCode Command Line Tools](https://developer.apple.com/documentation/xcode/installing-the-command-line-tools/) before the session. 
+
+### Pre-workshop data download
+If possible in advance of the workshop, please download [this model file](https://mcmasteru365-my.sharepoint.com/:u:/g/personal/jfink_mcmaster_ca/IQDlurTUrI9VQ598LFrzqVYBAdTXFjCfIvG8buSVPEm2Hgs?e=gKe6gc) to the computer you will use during the workshop. 
 - On Windows, rename the downloaded file to "Qwen3.5-0.8B-Q8_0.exe"
 - On Mac, open a terminal window, cd to the directory where you've downloaded the file, and run "chmod 755 Qwen3.5-0.8B-Q8_0.llamafile"
+**Important Notes** 
+- This is a relatively large file (1.7 GB), so only download using an appropriate internet connection. You may need to resume the download if it halts partway through.
+- If you cannot download the file in advance of the workshop, please arrive at the workshop 10 minutes early to download from a USB drive.   
 
 ## Facilitator Bio
 
