@@ -77,6 +77,7 @@ This introductory video sets the stage for the module by outlining its learning 
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/90981/embed" width="964" height="372" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="Quick Quiz"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## 2. Visual Media Literacy and Identifying AI Images
+This section introduces visual media literacy through an interactive exercise that challenges viewers to distinguish AI-generated images from real ones. It emphasizes the increasing difficulty in detecting synthetic images and presents practical strategies to better evaluate the authenticity and implications of digital images. 
 
 ### Can you spot the AI?
 Click on the image that you think is AI generated:
@@ -136,6 +137,7 @@ Click on the image that you think is AI generated:
 -->
 
 ## 3. Intersectionality, Decoloniality, and Historical Thinking
+In this section, the key concepts of intersectionality, decoloniality, and historical thinking are explored to further understand how bias and power shape AI-generated images. It examines how generative AI can reinforce biases and stereotypes from visual histories and emphasizes the need for considering both social and historical perspectives when analyzing these images.  
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/8846a9dd-2d09-4e64-b90b-a506b07c8300/public"></iframe>
 [View original here.](https://echo360.ca/media/8846a9dd-2d09-4e64-b90b-a506b07c8300/public)
@@ -144,6 +146,7 @@ Click on the image that you think is AI generated:
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/91052/embed" width="514" height="463" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="Intersectionality, Decoloniality, and Historical Thinking"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## 4. Histories of Humanitarian Imagery and Photographic Fakery
+This section explores the long history of image manipulation in photography, highlighting how such practices existed well before generative AI. It connects these historical forms of photographic fakery to current uses of AI-generated imagery in humanitarian contexts, raising critical questions about truth, representation, and trust in visual media. 
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/2e543432-f534-4471-81e1-6fd4c105c1b6/public"></iframe>
 [View original here.](https://echo360.ca/media/2e543432-f534-4471-81e1-6fd4c105c1b6/public)
@@ -152,11 +155,13 @@ Click on the image that you think is AI generated:
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/91053/embed" width="514" height="457" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="Histories of Humanitarian Imagery and Photographic Fakery"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
 ## 5. Case Study Examples
+This section presents case study examples using generative AI tools to demonstrate how prompts influence the images produced and expose underlying biases. It highlights how AI-generated visuals can reinforce stereotypes, encouraging critical reflection on representation, diversity, and the role of training data. 
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/3d9b1534-86ba-4863-a35f-dd2c58755c5f/public"></iframe>
 [View original here.](https://echo360.ca/media/3d9b1534-86ba-4863-a35f-dd2c58755c5f/public)
 
 ## 6. Considerations & Implications
+This section wraps up the module by highlighting key considerations and implications of generative AI, focusing on how the technology is shaped by the data it learns from and the broader social contexts. It emphasizes issues of representation, access, and bias, while encouraging viewers to engage with AI in more critical, ethical, and inclusive ways. 
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/df4a3f79-d3d6-432f-9f3f-dc4554be16fc/public"></iframe>
 [View original here.](https://echo360.ca/media/df4a3f79-d3d6-432f-9f3f-dc4554be16fc/public)
