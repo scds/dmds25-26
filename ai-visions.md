@@ -68,6 +68,7 @@ Coming soon.
 -->
 
 ## 1. Introduction
+This introductory video sets the stage for the module by outlining its learning objectives and focus on the historical and ethical dimensions of visual generative AI within media literacy. It highlights how past practices in photography may inform current debates about AI-generated images, bias, and responsible use. 
 
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/addd54ee-d454-4c6c-9220-e91f4f3e70a5/public"></iframe>
 [View original here.](https://echo360.ca/media/addd54ee-d454-4c6c-9220-e91f4f3e70a5/public)
