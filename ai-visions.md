@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 'Visions of Generative AI: Historical and Ethical Dimensions of Visual Media Literacy in the Era of AI'
+has_children: true
 nav_order: 20251008
 ---
 
