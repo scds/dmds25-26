@@ -8,6 +8,8 @@ parent: 'Visions of Generative AI: Historical and Ethical Dimensions of Visual M
 
 # 2. Visual Media Literacy and Identifying AI Images
 
+This section introduces visual media literacy through an interactive exercise that challenges viewers to distinguish AI-generated images from real ones. It emphasizes the increasing difficulty in detecting synthetic images and presents practical strategies to better evaluate the authenticity and implications of digital images. 
+
 ## Can you spot the AI?
 Click on the image that you think is AI generated:
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/91108/embed" width="964" height="799" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="AI activity 1"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>

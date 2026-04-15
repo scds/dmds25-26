@@ -7,5 +7,7 @@ parent: 'Visions of Generative AI: Historical and Ethical Dimensions of Visual M
 
 # 5. Case Study Examples
 
+This section presents case study examples using generative AI tools to demonstrate how prompts influence the images produced and expose underlying biases. It highlights how AI-generated visuals can reinforce stereotypes, encouraging critical reflection on representation, diversity, and the role of training data. 
+
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/3d9b1534-86ba-4863-a35f-dd2c58755c5f/public"></iframe>
 [View original here.](https://echo360.ca/media/3d9b1534-86ba-4863-a35f-dd2c58755c5f/public)

@@ -7,6 +7,8 @@ parent: 'Visions of Generative AI: Historical and Ethical Dimensions of Visual M
 
 # 4. Histories of Humanitarian Imagery and Photographic Fakery
 
+This section explores the long history of image manipulation in photography, highlighting how such practices existed well before generative AI. It connects these historical forms of photographic fakery to current uses of AI-generated imagery in humanitarian contexts, raising critical questions about truth, representation, and trust in visual media. 
+
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/2e543432-f534-4471-81e1-6fd4c105c1b6/public"></iframe>
 [View original here.](https://echo360.ca/media/2e543432-f534-4471-81e1-6fd4c105c1b6/public)
 

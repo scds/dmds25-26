@@ -7,6 +7,8 @@ parent: 'Visions of Generative AI: Historical and Ethical Dimensions of Visual M
 
 # 6. Considerations & Implications
 
+This section wraps up the module by highlighting key considerations and implications of generative AI, focusing on how the technology is shaped by the data it learns from and the broader social contexts. It emphasizes issues of representation, access, and bias, while encouraging viewers to engage with AI in more critical, ethical, and inclusive ways. 
+
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/df4a3f79-d3d6-432f-9f3f-dc4554be16fc/public"></iframe>
 [View original here.](https://echo360.ca/media/df4a3f79-d3d6-432f-9f3f-dc4554be16fc/public)
 
