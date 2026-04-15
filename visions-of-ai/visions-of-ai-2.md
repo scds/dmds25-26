@@ -5,9 +5,10 @@ nav_order: 2
 parent: 'Visions of Generative AI: Historical and Ethical Dimensions of Visual Media Literacy in the Era of AI'
 ---
 
-## 2. Visual Media Literacy and Identifying AI Images
 
-### Can you spot the AI?
+# 2. Visual Media Literacy and Identifying AI Images
+
+## Can you spot the AI?
 Click on the image that you think is AI generated:
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/91108/embed" width="964" height="799" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="AI activity 1"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
 
@@ -38,5 +39,5 @@ Click on the image that you think is AI generated:
 <iframe height="416" width="100%" allowfullscreen frameborder=0 src="https://echo360.ca/media/a9b23578-af68-43a4-8fff-ce758c09d741/public"></iframe>
 [View original here.](https://echo360.ca/media/a9b23578-af68-43a4-8fff-ce758c09d741/public)
 
-### Quiz 2
+## Quiz 2
 <iframe src="https://h5pstudio.ecampusontario.ca/h5p/91050/embed" width="514" height="415" frameborder="0" allowfullscreen="allowfullscreen" lang="en" title="Visual Media Literacy and Identifying AI Images"></iframe><script src="https://h5pstudio.ecampusontario.ca/modules/contrib/h5p/vendor/h5p/h5p-core/js/h5p-resizer.js" charset="UTF-8"></script>
